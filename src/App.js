@@ -9,10 +9,7 @@ import { Article } from './Composant/Article';
 
 
 function App() {
-  // const titre = "premier composant";
-  // const age = 12;
-  // const nom = "Alain";
-  // const formation = "Formation au sein de H3";
+
   return (
     <div className='container'>
       <header className='row'>
